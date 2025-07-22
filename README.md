@@ -1,2 +1,1 @@
-# takeover2
-Moja Moja
+SubDomain TAKEOVER
